@@ -55,3 +55,39 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.img1 {
+
+  width: 75%;
+  height: 100%;
+
+}
+
+
+.img2 {
+
+  width: 200px;
+  height: 400px;
+}
+
+#top {
+
+  padding-top: 7%;
+}
+
+.item {
+
+  height: 500px;
+
+}
+
+
+@media screen and (max-width: 600px){
+
+  .img1{
+
+    width: 75%;
+    margin-left: 12.5%;
+    padding-bottom: 5%;
+  }
+}
